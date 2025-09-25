@@ -131,22 +131,22 @@ npx blueprint create ContractName
 ## ✅ Success Criteria
 
 ### Challenge 1 (EscrowSystem)
-- [ ] All compilation errors fixed
-- [ ] All test cases pass
-- [ ] Contract functionality works as expected:
-  - [ ] Escrow initialization
-  - [ ] Fund requests by recipients
-  - [ ] Fund release by owners
-  - [ ] Escrow cancellation
+- [x] All compilation errors fixed
+- [x] All test cases pass
+- [x] Contract functionality works as expected:
+  - [x] Escrow initialization
+  - [x] Fund requests by recipients
+  - [x] Fund release by owners
+  - [x] Escrow cancellation
 
 ### Challenge 2 (SimpleDAO)
-- [ ] Contract compiles successfully
-- [ ] All test cases pass
-- [ ] Voting functionality implemented:
-  - [ ] Record yes/no votes
-  - [ ] Reset vote counts
-  - [ ] Accurate vote tracking
-- [ ] Getter function returns correct vote counts
+- [x] Contract compiles successfully
+- [x] All test cases pass
+- [x] Voting functionality implemented:
+  - [x] Record yes/no votes
+  - [x] Reset vote counts
+  - [x] Accurate vote tracking
+- [x] Getter function returns correct vote counts
 
 ## Development Tips
 
